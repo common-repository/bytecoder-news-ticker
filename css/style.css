@@ -1,0 +1,26 @@
+.news-ticker {
+	overflow: hidden;
+	display: block;
+}
+.news-ticker ul {
+	padding: 0;
+	list-style: none;}
+.news-ticker li{
+	padding-left: 10px;
+	list-style: none;
+}
+.news-ticker a {
+	font-weight: bold;
+	list-style: none;
+}
+.news-ticker a:link {
+    text-decoration: none;
+}
+.post_text strong {
+	float: left;
+	background: #333;
+	color: #fff;
+	margin-right: 15px;
+	display: inline-block;
+	padding: 5px 15px
+}
